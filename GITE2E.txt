@@ -1,0 +1,32 @@
+Create a public repository
+
+Repository Set up in REAL World
+************************************
+
+Create 3 branches Dev, QA, Prod in github
+
+Add team members as Collaborators to this repository
+
+Checkin the code by Developer1 in Dev branch
+
+Build & deploy code in Dev server from git Dev branch
+
+Pull Request to merge code from Dev branch to QA branch
+
+Build & deploy code in QA server from QA branch
+
+Fix some defects and move changes to Dev branch
+
+Pull Request to merge code from Dev branch to QA branch
+
+Build & deploy code in QA server from QA branch
+
+Release all code to Production
+
+Pull Request to merge code from QA branch to Prod branch
+
+Build & deploy code in Production server from prod branch
+
+
+
+
